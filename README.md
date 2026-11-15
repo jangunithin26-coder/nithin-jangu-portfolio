@@ -2,8 +2,15 @@
 
 A responsive portfolio for SOC Analyst L1, Junior Cybersecurity Analyst and Security Operations opportunities.
 
-## Website
-Open [index.html](./index.html) or enable GitHub Pages to publish the site.
+## Live website
+**[Open Nithin's Cybersecurity Portfolio](https://jangunithin26-coder.github.io/nithin-jangu-portfolio/)**
+
+## Repository contents
+- `index.html` — portfolio website
+- `Nithin_Jangu_Cybersecurity_CV_with_Portfolio.pdf` — downloadable CV
+- `sentinel-brute-force-incident.jpg` — Sentinel brute-force incident evidence
+- `sentinel-incident-queue.jpg` — Sentinel incident queue evidence
+- `sentinel-alert-overview.jpg` — Sentinel alert overview evidence
 
 ## Focus areas
 - Microsoft Sentinel, Log Analytics and KQL
@@ -11,6 +18,9 @@ Open [index.html](./index.html) or enable GitHub Pages to publish the site.
 - Python log simulation and Logic Apps automation
 - Network security labs with Snort, Suricata and Wireshark
 - Linux and TCP/IP fundamentals
+
+## Related project
+[Sentinel IR Automation repository](https://github.com/jangunith26-coder/sentinel-ir-automation)
 
 ## Project notes
 The KQL examples on the website are illustrative and have not been re-tested against an active tenant. Tenant schemas and activity names vary.
@@ -20,4 +30,4 @@ Ooru is an in-progress village-delivery project. Its authentication, complete or
 ## Contact
 - Email: jangunith26@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nithinjangu/
-- GitHub: https://github.com/jangunithin26-coder
+- GitHub: https://github.com/jangunith26-coder
